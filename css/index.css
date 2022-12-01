@@ -3,6 +3,10 @@ header {
 }
 
 a {
-    color: white;
+    color: #FFF;
     font-size: 20px;
+    font-family: "Fira code", Arial, monospace;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
 }
