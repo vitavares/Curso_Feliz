@@ -1,5 +1,24 @@
 header {
     background-color:#7C5E99;
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+}
+
+img {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 0px;
+    top: 5px;
+}
+
+nav {
+    position: absolute;
+    width: 702px;
+    height: 60px;
+    left: 658px;
+    top: 10px;
 }
 
 a {
